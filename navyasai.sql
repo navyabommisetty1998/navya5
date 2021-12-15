@@ -1,5 +1,5 @@
-CREATE TABLE team(STDROLLN0 varchar(30),stdname varchar(30),
-subject varchar(30);
+CREATE TABLE student(STDROLLN0 varchar(30),stdname varchar(30),
+marks varchar(30);
 insert into student(STDROLLN0,stdname,marks)
 values('1','navya','80');
 insert into stdinformation(stdrolln0,stdname,stdmarks)
